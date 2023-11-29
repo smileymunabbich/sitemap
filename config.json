@@ -12,10 +12,7 @@
 		"center_crop_wallpaper": "true",
 		"custom_label_list": "false"
 	},
-	"notification": {
-		"fcm_notification_topic": "blogger_wallpaper_app_topic",
-		"onesignal_app_id": "0855da51-0ba7-45dc-b790-000000000"
-	},
+	
 	"ads": {
 		"ad_status": "1",
 		"ad_type": "admob",
@@ -27,13 +24,8 @@
 		"admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
 		"admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/3419835294",
 		"startapp_app_id": "0",
-		"unity_game_id": "4089993",
-		"unity_banner_placement_id": "banner",
-		"unity_interstitial_placement_id": "video",
 		"applovin_banner_ad_unit_id": "0",
 		"applovin_interstitial_ad_unit_id": "0",
-		"mopub_banner_ad_unit_id": "b195f8dd8ded45fe847ad89ed1d016da",
-		"mopub_interstitial_ad_unit_id": "24534e1901884e398f1253216226017e",
 		"interstitial_ad_interval": 3
 	},
 	"labels": [
